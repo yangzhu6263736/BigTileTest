@@ -1,0 +1,739 @@
+2016-07-08T10:28:46.636Z - normal: Load ~/.CocosCreator/settings.json
+2016-07-08T10:28:46.641Z - normal: checking language setting...
+2016-07-08T10:28:46.641Z - normal: Language: zh
+2016-07-08T10:28:46.672Z - success: protocol editor-framework registerred
+2016-07-08T10:28:46.672Z - success: protocol app registerred
+2016-07-08T10:28:46.672Z - success: protocol packages registerred
+2016-07-08T10:28:46.673Z - success: protocol unpack registerred
+2016-07-08T10:28:46.939Z - normal: connected!
+2016-07-08T10:28:46.941Z - normal: Check project /Users/yangzhu/Documents/newwork/testTiled
+2016-07-08T10:28:46.944Z - normal: Initializing Cocos Creator Editor
+2016-07-08T10:28:47.219Z - normal: Initializing Cocos2d
+2016-07-08T10:28:47.335Z - normal: Initializing Asset Database
+2016-07-08T10:28:47.355Z - success: protocol uuid registerred
+2016-07-08T10:28:47.356Z - success: protocol uuid registerred
+2016-07-08T10:28:47.356Z - success: protocol thumbnail registerred
+2016-07-08T10:28:47.356Z - normal: Loading editor/builtin packages
+2016-07-08T10:28:47.466Z - success: assets loaded
+2016-07-08T10:28:47.469Z - success: builder loaded
+2016-07-08T10:28:47.474Z - success: hierarchy loaded
+2016-07-08T10:28:47.478Z - success: inspector loaded
+2016-07-08T10:28:47.479Z - success: keystore loaded
+2016-07-08T10:28:47.484Z - success: node-library loaded
+2016-07-08T10:28:47.488Z - success: preferences loaded
+2016-07-08T10:28:47.507Z - success: project-importer loaded
+2016-07-08T10:28:47.510Z - success: project-settings loaded
+2016-07-08T10:28:47.514Z - success: ui-kit loaded
+2016-07-08T10:28:47.518Z - success: ui-grid loaded
+2016-07-08T10:28:47.523Z - success: scene loaded
+2016-07-08T10:28:47.524Z - success: sprite-editor loaded
+2016-07-08T10:28:47.531Z - success: timeline loaded
+2016-07-08T10:28:47.535Z - success: ui-kit-extra loaded
+2016-07-08T10:28:47.535Z - normal: Loading builtin packages
+2016-07-08T10:28:47.541Z - success: asset-db-debugger loaded
+2016-07-08T10:28:47.542Z - success: code-editor loaded
+2016-07-08T10:28:47.543Z - success: color-picker loaded
+2016-07-08T10:28:47.547Z - success: console loaded
+2016-07-08T10:28:47.551Z - success: package-manager loaded
+2016-07-08T10:28:47.557Z - success: tester loaded
+2016-07-08T10:28:47.560Z - success: ui-tree loaded
+2016-07-08T10:28:47.640Z - normal: Initializing project /Users/yangzhu/Documents/newwork/testTiled
+2016-07-08T10:28:47.641Z - normal: Loading packages
+2016-07-08T10:28:47.647Z - normal: Run Application
+2016-07-08T10:28:48.473Z - success: preview server running at http://localhost:7457
+2016-07-08T10:28:48.474Z - normal: Compiling scripts...
+2016-07-08T10:28:50.110Z - normal: Compiled successfully
+2016-07-08T10:28:54.314Z - normal: 1.1.1
+2016-07-08T10:32:33.113Z - error: [require] Cannot find module 'BaseViewMediator' from '/Users/yangzhu/Documents/newwork/testTiled/temp/scripts/assets/Script'
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:4056)
+    at emitOne (events.js:77:13)
+    at Readable.emit (events.js:169:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:77:13)
+    at Labeled.emit (events.js:169:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:82:20)
+    at Labeled.emit (events.js:169:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at Object.callback (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:871)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:906:35
+    at _arrayEach (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:85:13)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:898:17
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1264)
+    at BrowserWindow.g (events.js:260:16)
+    at emitOne (events.js:82:20)
+    at BrowserWindow.emit (events.js:169:7)
+2016-07-08T10:34:44.499Z - error: [require] Cannot find module 'GM' from '/Users/yangzhu/Documents/newwork/testTiled/temp/scripts/assets/Script'
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:4056)
+    at emitOne (events.js:77:13)
+    at Readable.emit (events.js:169:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:77:13)
+    at Labeled.emit (events.js:169:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:82:20)
+    at Labeled.emit (events.js:169:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at Object.callback (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:871)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:906:35
+    at _arrayEach (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:85:13)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:898:17
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1264)
+    at BrowserWindow.g (events.js:260:16)
+    at emitOne (events.js:82:20)
+    at BrowserWindow.emit (events.js:169:7)
+2016-07-08T10:34:46.730Z - error: [require] Cannot find module 'GM' from '/Users/yangzhu/Documents/newwork/testTiled/temp/scripts/assets/Script'
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:4056)
+    at emitOne (events.js:77:13)
+    at Readable.emit (events.js:169:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:77:13)
+    at Labeled.emit (events.js:169:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:82:20)
+    at Labeled.emit (events.js:169:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at Object.callback (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:871)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:906:35
+    at _arrayEach (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:85:13)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:898:17
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1264)
+    at BrowserWindow.g (events.js:260:16)
+    at emitOne (events.js:82:20)
+    at BrowserWindow.emit (events.js:169:7)
+2016-07-08T10:34:55.453Z - error: Can not find cc.Component in the script 32dd61+YtNGYLa7IqcbsQNF.
+    at Object.defineProperties.addComponent (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/index.js:1:9859)
+    at editor-scene.Editor.polymerPanel.messages.scene:add-component (file:///Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/scene.js:1:7691)
+    at Object.Panel._dispatch (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:4729)
+    at EventEmitter.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:4731)
+    at emitMany (events.js:108:13)
+    at EventEmitter.emit (events.js:182:7)
+2016-07-08T10:35:08.028Z - error: [require] Cannot find module 'GM' from '/Users/yangzhu/Documents/newwork/testTiled/temp/scripts/assets/Script'
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:4056)
+    at emitOne (events.js:77:13)
+    at Readable.emit (events.js:169:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:77:13)
+    at Labeled.emit (events.js:169:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:82:20)
+    at Labeled.emit (events.js:169:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at Object.callback (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:871)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:906:35
+    at _arrayEach (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:85:13)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:898:17
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1264)
+    at BrowserWindow.g (events.js:260:16)
+    at emitOne (events.js:82:20)
+    at BrowserWindow.emit (events.js:169:7)
+2016-07-08T10:35:42.468Z - error: [require] Cannot find module 'GM' from '/Users/yangzhu/Documents/newwork/testTiled/temp/scripts/assets/Script'
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:4056)
+    at emitOne (events.js:77:13)
+    at Readable.emit (events.js:169:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:77:13)
+    at Labeled.emit (events.js:169:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:82:20)
+    at Labeled.emit (events.js:169:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at Object.callback (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:871)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:906:35
+    at _arrayEach (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:85:13)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:898:17
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1264)
+    at BrowserWindow.g (events.js:260:16)
+    at emitOne (events.js:82:20)
+    at BrowserWindow.emit (events.js:169:7)
+2016-07-08T10:35:48.205Z - error: [require] Cannot find module 'GM' from '/Users/yangzhu/Documents/newwork/testTiled/temp/scripts/assets/Script'
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:4056)
+    at emitOne (events.js:77:13)
+    at Readable.emit (events.js:169:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:77:13)
+    at Labeled.emit (events.js:169:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:82:20)
+    at Labeled.emit (events.js:169:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at Object.callback (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:871)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:906:35
+    at _arrayEach (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:85:13)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:898:17
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1264)
+    at BrowserWindow.g (events.js:260:16)
+    at emitOne (events.js:82:20)
+    at BrowserWindow.emit (events.js:169:7)
+2016-07-08T10:36:02.532Z - error: [require] Cannot find module 'GM' from '/Users/yangzhu/Documents/newwork/testTiled/temp/scripts/assets/Script'
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:4056)
+    at emitOne (events.js:77:13)
+    at Readable.emit (events.js:169:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:77:13)
+    at Labeled.emit (events.js:169:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:82:20)
+    at Labeled.emit (events.js:169:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at Object.callback (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:871)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:906:35
+    at _arrayEach (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:85:13)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:898:17
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1264)
+    at BrowserWindow.g (events.js:260:16)
+    at emitOne (events.js:82:20)
+    at BrowserWindow.emit (events.js:169:7)
+2016-07-08T10:36:13.671Z - error: [require] Cannot find module 'VO' from '/Users/yangzhu/Documents/newwork/testTiled/temp/scripts/assets/Script'
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:4056)
+    at emitOne (events.js:77:13)
+    at Readable.emit (events.js:169:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:77:13)
+    at Labeled.emit (events.js:169:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:82:20)
+    at Labeled.emit (events.js:169:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at Object.callback (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:871)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:906:35
+    at _arrayEach (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:85:13)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:898:17
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1264)
+    at BrowserWindow.g (events.js:260:16)
+    at emitOne (events.js:82:20)
+    at BrowserWindow.emit (events.js:169:7)
+2016-07-08T10:36:18.463Z - error: [require] Cannot find module 'VO' from '/Users/yangzhu/Documents/newwork/testTiled/temp/scripts/assets/Script'
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:4056)
+    at emitOne (events.js:77:13)
+    at Readable.emit (events.js:169:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:77:13)
+    at Labeled.emit (events.js:169:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:82:20)
+    at Labeled.emit (events.js:169:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at Object.callback (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:871)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:906:35
+    at _arrayEach (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:85:13)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:898:17
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1264)
+    at BrowserWindow.g (events.js:260:16)
+    at emitOne (events.js:82:20)
+    at BrowserWindow.emit (events.js:169:7)
+2016-07-08T10:37:19.366Z - error: [require] Cannot find module 'VO' from '/Users/yangzhu/Documents/newwork/testTiled/temp/scripts/assets/Script'
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:4056)
+    at emitOne (events.js:77:13)
+    at Readable.emit (events.js:169:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:77:13)
+    at Labeled.emit (events.js:169:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:82:20)
+    at Labeled.emit (events.js:169:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at Object.callback (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:871)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:906:35
+    at _arrayEach (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:85:13)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:898:17
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1264)
+    at BrowserWindow.g (events.js:260:16)
+    at emitOne (events.js:82:20)
+    at BrowserWindow.emit (events.js:169:7)
+2016-07-08T10:37:33.313Z - normal: Compiled successfully
+2016-07-08T10:37:33.831Z - normal: Display:ctor
+2016-07-08T10:37:33.832Z - warn: Should not specify class name for Component which defines in project.
+2016-07-08T10:39:27.355Z - normal: Compiled successfully
+2016-07-08T10:39:27.443Z - normal: Display:ctor
+2016-07-08T10:39:27.444Z - warn: Should not specify class name for Component which defines in project.
+2016-07-08T10:40:36.913Z - normal: Compiled successfully
+2016-07-08T10:40:36.989Z - normal: Display:ctor
+2016-07-08T10:40:36.990Z - warn: Should not specify class name for Component which defines in project.
+2016-07-08T10:41:20.449Z - normal: Compiled successfully
+2016-07-08T10:41:20.776Z - normal: Display:ctor
+2016-07-08T10:41:20.777Z - warn: Should not specify class name for Component which defines in project.
+2016-07-08T10:42:26.578Z - normal: Compiled successfully
+2016-07-08T10:42:27.087Z - normal: Display:ctor
+2016-07-08T10:42:27.088Z - warn: Should not specify class name for Component which defines in project.
+2016-07-08T10:42:53.275Z - normal: Compiled successfully
+2016-07-08T10:42:53.592Z - normal: Display:ctor
+2016-07-08T10:42:53.594Z - warn: Should not specify class name for Component which defines in project.
+2016-07-08T10:43:33.272Z - normal: Compiled successfully
+2016-07-08T10:43:33.504Z - normal: Display:ctor
+2016-07-08T10:43:33.506Z - warn: Should not specify class name for Component which defines in project.
+2016-07-08T10:45:23.867Z - normal: Compiled successfully
+2016-07-08T10:45:24.275Z - normal: Display:ctor
+2016-07-08T10:45:24.277Z - warn: Should not specify class name for Component which defines in project.
+2016-07-08T10:47:15.147Z - normal: Compiled successfully
+2016-07-08T10:47:15.194Z - normal: Display:ctor
+2016-07-08T10:47:15.195Z - warn: Should not specify class name for Component which defines in project.
+2016-07-08T10:47:31.692Z - normal: Compiled successfully
+2016-07-08T10:47:31.740Z - normal: Display:ctor
+2016-07-08T10:47:31.741Z - warn: Should not specify class name for Component which defines in project.
+2016-07-08T10:49:58.109Z - normal: Compiled successfully
+2016-07-08T10:49:58.193Z - normal: Display:ctor
+2016-07-08T10:49:58.193Z - warn: Should not specify class name for Component which defines in project.
+2016-07-08T10:51:41.142Z - normal: Compiled successfully
+2016-07-08T10:51:41.216Z - normal: Display:ctor
+2016-07-08T10:51:41.219Z - warn: Should not specify class name for Component which defines in project.
+2016-07-08T10:52:26.041Z - normal: Compiled successfully
+2016-07-08T10:52:26.138Z - normal: Display:ctor
+2016-07-08T10:52:26.138Z - warn: Should not specify class name for Component which defines in project.
+2016-07-08T10:52:35.776Z - normal: Simulator : WORKAREA WIDTH 1280.00, HEIGHT 687.00
+2016-07-08T10:52:35.777Z - normal: Simulator : FRAME SCALE = 1.00
+2016-07-08T10:52:36.008Z - normal: Simulator : GLFWError #65544 Happen, Failed to retrieve display name
+2016-07-08T10:52:36.010Z - normal: Simulator : GLFWError #65544 Happen, Failed to retrieve display name
+2016-07-08T10:52:36.142Z - normal: Simulator : 
+2016-07-08T10:52:36.143Z - normal: Simulator : {
+2016-07-08T10:52:36.143Z - normal: Simulator : 	gl.supports_vertex_array_object: true
+2016-07-08T10:52:36.143Z - normal: Simulator : 	cocos2d.x.version: cocos2d-x-3.10-lite
+2016-07-08T10:52:36.144Z - normal: Simulator : 	cocos2d.x.compiled_with_profiler: false
+2016-07-08T10:52:36.144Z - normal: Simulator : 	gl.version: 2.1 INTEL-10.14.66
+2016-07-08T10:52:36.145Z - normal: Simulator : 	cocos2d.x.build_type: DEBUG
+2016-07-08T10:52:36.145Z - normal: Simulator : 	cocos2d.x.build_time: 18:25:35 Jul  6 2016
+2016-07-08T10:52:36.146Z - normal: Simulator : 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-07-08T10:52:36.147Z - normal: Simulator : 	gl.max_texture_size: 16384
+2016-07-08T10:52:36.160Z - normal: Simulator : 	gl.supports_ETC1: false
+2016-07-08T10:52:36.161Z - normal: Simulator : 	gl.supports_BGRA8888: false
+2016-07-08T10:52:36.161Z - normal: Simulator : 	gl.supports_PVRTC: false
+2016-07-08T10:52:36.162Z - normal: Simulator : 	gl.renderer: Intel Iris OpenGL Engine
+2016-07-08T10:52:36.162Z - normal: Simulator : 	gl.vendor: Intel Inc.
+2016-07-08T10:52:36.162Z - normal: Simulator : 	gl.max_texture_units: 16
+2016-07-08T10:52:36.162Z - normal: Simulator : 	gl.supports_OES_packed_depth_stencil: false
+2016-07-08T10:52:36.163Z - normal: Simulator : 	gl.supports_NPOT: true
+2016-07-08T10:52:36.163Z - normal: Simulator : 	gl.supports_discard_framebuffer: false
+2016-07-08T10:52:36.163Z - normal: Simulator : 	gl.supports_OES_depth24: false
+2016-07-08T10:52:36.164Z - normal: Simulator : }
+2016-07-08T10:52:36.167Z - normal: Simulator : Project Config:
+2016-07-08T10:52:36.168Z - normal: Simulator :     project dir: /Users/yangzhu/Documents/newwork/ww-engin/cocos2d-x-lite/simulator/mac/Simulator.app/Contents/Resources/
+2016-07-08T10:52:36.169Z - normal: Simulator :     writable path: $(PROJDIR)/
+2016-07-08T10:52:36.170Z - normal: Simulator :     script file: $(PROJDIR)/main.js
+2016-07-08T10:52:36.171Z - normal: Simulator :     frame size: 960 x 640
+2016-07-08T10:52:36.172Z - normal: Simulator :     frame scale: 1.00
+2016-07-08T10:52:36.173Z - normal: Simulator :     show console: NO
+2016-07-08T10:52:36.173Z - normal: Simulator :     write debug log: NO ()
+2016-07-08T10:52:36.174Z - normal: Simulator :     listen: 
+2016-07-08T10:52:36.174Z - normal: Simulator :     debugger: none
+2016-07-08T10:52:36.174Z - normal: Simulator :     add searching path:
+2016-07-08T10:52:36.175Z - normal: Simulator : 
+2016-07-08T10:52:36.175Z - normal: Simulator : 
+2016-07-08T10:52:36.175Z - normal: Simulator : 
+2016-07-08T10:52:36.176Z - normal: Simulator : ------------------------------------------------
+2016-07-08T10:52:36.176Z - normal: Simulator : LOAD Js FILE: main.js
+2016-07-08T10:52:36.176Z - normal: Simulator : ------------------------------------------------
+2016-07-08T10:52:36.610Z - normal: Simulator : Cocos2d-JS v3.9
+2016-07-08T10:52:36.669Z - normal: Simulator : Display:ctor
+2016-07-08T10:52:36.728Z - normal: Simulator : iShow!
+2016-07-08T10:52:37.787Z - normal: Simulator : setupTilesBeyondPos (750.00, 750.00) 11
+2016-07-08T10:52:37.789Z - normal: Simulator : showTilesBeyond bg 750.000000 750.000000
+2016-07-08T10:52:37.790Z - normal: Simulator : setupTilesBeyondPos (750.00, 750.00) 11
+2016-07-08T10:52:37.790Z - normal: Simulator : showTilesBeyond blinMask 750.000000 750.000000
+2016-07-08T10:52:37.791Z - normal: Simulator : setupTilesBeyondPos (750.00, 750.00) 11
+2016-07-08T10:52:37.791Z - normal: Simulator : showTilesBeyond land 750.000000 750.000000
+2016-07-08T10:52:37.792Z - normal: Simulator : setupTilesBeyondPos (750.00, 750.00) 11
+2016-07-08T10:52:37.792Z - normal: Simulator : showTilesBeyond born 750.000000 750.000000
+2016-07-08T10:52:37.796Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:37.797Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:37.797Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:37.799Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:38.589Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:38.807Z - normal: Simulator : setupTilesBeyondPos (750.00, 748.00) 11
+2016-07-08T10:52:38.808Z - normal: Simulator : showTilesBeyond bg 750.000000 748.000000
+2016-07-08T10:52:38.809Z - normal: Simulator : setupTilesBeyondPos (750.00, 748.00) 11
+2016-07-08T10:52:38.810Z - normal: Simulator : showTilesBeyond blinMask 750.000000 748.000000
+2016-07-08T10:52:38.811Z - normal: Simulator : setupTilesBeyondPos (750.00, 748.00) 11
+2016-07-08T10:52:38.812Z - normal: Simulator : showTilesBeyond land 750.000000 748.000000
+2016-07-08T10:52:38.812Z - normal: Simulator : setupTilesBeyondPos (750.00, 748.00) 11
+2016-07-08T10:52:38.812Z - normal: Simulator : showTilesBeyond born 750.000000 748.000000
+2016-07-08T10:52:38.813Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:38.813Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:38.813Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:38.814Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:39.006Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:39.158Z - normal: Simulator : setupTilesBeyondPos (751.00, 746.00) 11
+2016-07-08T10:52:39.159Z - normal: Simulator : showTilesBeyond bg 751.000000 746.000000
+2016-07-08T10:52:39.159Z - normal: Simulator : setupTilesBeyondPos (751.00, 746.00) 11
+2016-07-08T10:52:39.160Z - normal: Simulator : showTilesBeyond blinMask 751.000000 746.000000
+2016-07-08T10:52:39.160Z - normal: Simulator : setupTilesBeyondPos (751.00, 746.00) 11
+2016-07-08T10:52:39.160Z - normal: Simulator : showTilesBeyond land 751.000000 746.000000
+2016-07-08T10:52:39.160Z - normal: Simulator : setupTilesBeyondPos (751.00, 746.00) 11
+2016-07-08T10:52:39.161Z - normal: Simulator : showTilesBeyond born 751.000000 746.000000
+2016-07-08T10:52:39.162Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:39.162Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:39.163Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:39.164Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:39.420Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:39.446Z - normal: Simulator : setupTilesBeyondPos (752.00, 745.00) 11
+2016-07-08T10:52:39.451Z - normal: Simulator : showTilesBeyond bg 752.000000 745.000000
+2016-07-08T10:52:39.459Z - normal: Simulator : setupTilesBeyondPos (752.00, 745.00) 11
+2016-07-08T10:52:39.460Z - normal: Simulator : showTilesBeyond blinMask 752.000000 745.000000
+2016-07-08T10:52:39.461Z - normal: Simulator : setupTilesBeyondPos (752.00, 745.00) 11
+2016-07-08T10:52:39.463Z - normal: Simulator : showTilesBeyond land 752.000000 745.000000
+2016-07-08T10:52:39.463Z - normal: Simulator : setupTilesBeyondPos (752.00, 745.00) 11
+2016-07-08T10:52:39.464Z - normal: Simulator : showTilesBeyond born 752.000000 745.000000
+2016-07-08T10:52:39.464Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:39.464Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:39.465Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:39.465Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:39.643Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:39.730Z - normal: Simulator : setupTilesBeyondPos (753.00, 744.00) 11
+2016-07-08T10:52:39.731Z - normal: Simulator : showTilesBeyond bg 753.000000 744.000000
+2016-07-08T10:52:39.731Z - normal: Simulator : setupTilesBeyondPos (753.00, 744.00) 11
+2016-07-08T10:52:39.732Z - normal: Simulator : showTilesBeyond blinMask 753.000000 744.000000
+2016-07-08T10:52:39.732Z - normal: Simulator : setupTilesBeyondPos (753.00, 744.00) 11
+2016-07-08T10:52:39.732Z - normal: Simulator : showTilesBeyond land 753.000000 744.000000
+2016-07-08T10:52:39.732Z - normal: Simulator : setupTilesBeyondPos (753.00, 744.00) 11
+2016-07-08T10:52:39.733Z - normal: Simulator : showTilesBeyond born 753.000000 744.000000
+2016-07-08T10:52:39.733Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:39.733Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:39.737Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:39.739Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:39.880Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:40.109Z - normal: Simulator : setupTilesBeyondPos (754.00, 742.00) 11
+2016-07-08T10:52:40.114Z - normal: Simulator : showTilesBeyond bg 754.000000 742.000000
+2016-07-08T10:52:40.125Z - normal: Simulator : setupTilesBeyondPos (754.00, 742.00) 11
+2016-07-08T10:52:40.130Z - normal: Simulator : showTilesBeyond blinMask 754.000000 742.000000
+2016-07-08T10:52:40.134Z - normal: Simulator : setupTilesBeyondPos (754.00, 742.00) 11
+2016-07-08T10:52:40.140Z - normal: Simulator : showTilesBeyond land 754.000000 742.000000
+2016-07-08T10:52:40.145Z - normal: Simulator : setupTilesBeyondPos (754.00, 742.00) 11
+2016-07-08T10:52:40.153Z - normal: Simulator : showTilesBeyond born 754.000000 742.000000
+2016-07-08T10:52:40.156Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:40.160Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:40.163Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:40.164Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:40.589Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:40.779Z - normal: Simulator : setupTilesBeyondPos (756.00, 741.00) 11
+2016-07-08T10:52:40.780Z - normal: Simulator : showTilesBeyond bg 756.000000 741.000000
+2016-07-08T10:52:40.781Z - normal: Simulator : setupTilesBeyondPos (756.00, 741.00) 11
+2016-07-08T10:52:40.781Z - normal: Simulator : showTilesBeyond blinMask 756.000000 741.000000
+2016-07-08T10:52:40.781Z - normal: Simulator : setupTilesBeyondPos (756.00, 741.00) 11
+2016-07-08T10:52:40.782Z - normal: Simulator : showTilesBeyond land 756.000000 741.000000
+2016-07-08T10:52:40.782Z - normal: Simulator : setupTilesBeyondPos (756.00, 741.00) 11
+2016-07-08T10:52:40.782Z - normal: Simulator : showTilesBeyond born 756.000000 741.000000
+2016-07-08T10:52:40.783Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:40.783Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:40.784Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:40.786Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:40.946Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:41.079Z - normal: Simulator : setupTilesBeyondPos (757.00, 739.00) 11
+2016-07-08T10:52:41.080Z - normal: Simulator : showTilesBeyond bg 757.000000 739.000000
+2016-07-08T10:52:41.080Z - normal: Simulator : setupTilesBeyondPos (757.00, 739.00) 11
+2016-07-08T10:52:41.081Z - normal: Simulator : showTilesBeyond blinMask 757.000000 739.000000
+2016-07-08T10:52:41.082Z - normal: Simulator : setupTilesBeyondPos (757.00, 739.00) 11
+2016-07-08T10:52:41.082Z - normal: Simulator : showTilesBeyond land 757.000000 739.000000
+2016-07-08T10:52:41.082Z - normal: Simulator : setupTilesBeyondPos (757.00, 739.00) 11
+2016-07-08T10:52:41.083Z - normal: Simulator : showTilesBeyond born 757.000000 739.000000
+2016-07-08T10:52:41.083Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:41.083Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:41.085Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:41.086Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:41.283Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:41.343Z - normal: Simulator : setupTilesBeyondPos (758.00, 738.00) 11
+2016-07-08T10:52:41.344Z - normal: Simulator : showTilesBeyond bg 758.000000 738.000000
+2016-07-08T10:52:41.346Z - normal: Simulator : setupTilesBeyondPos (758.00, 738.00) 11
+2016-07-08T10:52:41.358Z - normal: Simulator : showTilesBeyond blinMask 758.000000 738.000000
+2016-07-08T10:52:41.358Z - normal: Simulator : setupTilesBeyondPos (758.00, 738.00) 11
+2016-07-08T10:52:41.359Z - normal: Simulator : showTilesBeyond land 758.000000 738.000000
+2016-07-08T10:52:41.360Z - normal: Simulator : setupTilesBeyondPos (758.00, 738.00) 11
+2016-07-08T10:52:41.361Z - normal: Simulator : showTilesBeyond born 758.000000 738.000000
+2016-07-08T10:52:41.362Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:41.363Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:41.363Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:41.363Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:41.597Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:41.633Z - normal: Simulator : setupTilesBeyondPos (759.00, 737.00) 11
+2016-07-08T10:52:41.634Z - normal: Simulator : showTilesBeyond bg 759.000000 737.000000
+2016-07-08T10:52:41.635Z - normal: Simulator : setupTilesBeyondPos (759.00, 737.00) 11
+2016-07-08T10:52:41.636Z - normal: Simulator : showTilesBeyond blinMask 759.000000 737.000000
+2016-07-08T10:52:41.643Z - normal: Simulator : setupTilesBeyondPos (759.00, 737.00) 11
+2016-07-08T10:52:41.645Z - normal: Simulator : showTilesBeyond land 759.000000 737.000000
+2016-07-08T10:52:41.647Z - normal: Simulator : setupTilesBeyondPos (759.00, 737.00) 11
+2016-07-08T10:52:41.648Z - normal: Simulator : showTilesBeyond born 759.000000 737.000000
+2016-07-08T10:52:41.650Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:41.652Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:41.655Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:41.659Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:41.842Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:42.014Z - normal: Simulator : setupTilesBeyondPos (760.00, 736.00) 11
+2016-07-08T10:52:42.014Z - normal: Simulator : showTilesBeyond bg 760.000000 736.000000
+2016-07-08T10:52:42.015Z - normal: Simulator : setupTilesBeyondPos (760.00, 736.00) 11
+2016-07-08T10:52:42.015Z - normal: Simulator : showTilesBeyond blinMask 760.000000 736.000000
+2016-07-08T10:52:42.015Z - normal: Simulator : setupTilesBeyondPos (760.00, 736.00) 11
+2016-07-08T10:52:42.015Z - normal: Simulator : showTilesBeyond land 760.000000 736.000000
+2016-07-08T10:52:42.016Z - normal: Simulator : setupTilesBeyondPos (760.00, 736.00) 11
+2016-07-08T10:52:42.017Z - normal: Simulator : showTilesBeyond born 760.000000 736.000000
+2016-07-08T10:52:42.019Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:42.021Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:42.022Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:42.024Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:42.165Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:42.165Z - normal: Simulator : setupTilesBeyondPos (761.00, 734.00) 11
+2016-07-08T10:52:42.166Z - normal: Simulator : showTilesBeyond bg 761.000000 734.000000
+2016-07-08T10:52:42.166Z - normal: Simulator : setupTilesBeyondPos (761.00, 734.00) 11
+2016-07-08T10:52:42.166Z - normal: Simulator : showTilesBeyond blinMask 761.000000 734.000000
+2016-07-08T10:52:42.167Z - normal: Simulator : setupTilesBeyondPos (761.00, 734.00) 11
+2016-07-08T10:52:42.167Z - normal: Simulator : showTilesBeyond land 761.000000 734.000000
+2016-07-08T10:52:42.167Z - normal: Simulator : setupTilesBeyondPos (761.00, 734.00) 11
+2016-07-08T10:52:42.168Z - normal: Simulator : showTilesBeyond born 761.000000 734.000000
+2016-07-08T10:52:42.168Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:42.169Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:42.170Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:42.173Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:42.399Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:42.410Z - normal: Simulator : setupTilesBeyondPos (763.00, 733.00) 11
+2016-07-08T10:52:42.411Z - normal: Simulator : showTilesBeyond bg 763.000000 733.000000
+2016-07-08T10:52:42.412Z - normal: Simulator : setupTilesBeyondPos (763.00, 733.00) 11
+2016-07-08T10:52:42.413Z - normal: Simulator : showTilesBeyond blinMask 763.000000 733.000000
+2016-07-08T10:52:42.414Z - normal: Simulator : setupTilesBeyondPos (763.00, 733.00) 11
+2016-07-08T10:52:42.415Z - normal: Simulator : showTilesBeyond land 763.000000 733.000000
+2016-07-08T10:52:42.416Z - normal: Simulator : setupTilesBeyondPos (763.00, 733.00) 11
+2016-07-08T10:52:42.417Z - normal: Simulator : showTilesBeyond born 763.000000 733.000000
+2016-07-08T10:52:42.429Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:42.430Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:42.430Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:42.432Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:42.615Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:43.080Z - normal: Simulator : setupTilesBeyondPos (764.00, 731.00) 11
+2016-07-08T10:52:43.081Z - normal: Simulator : showTilesBeyond bg 764.000000 731.000000
+2016-07-08T10:52:43.083Z - normal: Simulator : setupTilesBeyondPos (764.00, 731.00) 11
+2016-07-08T10:52:43.083Z - normal: Simulator : showTilesBeyond blinMask 764.000000 731.000000
+2016-07-08T10:52:43.084Z - normal: Simulator : setupTilesBeyondPos (764.00, 731.00) 11
+2016-07-08T10:52:43.087Z - normal: Simulator : showTilesBeyond land 764.000000 731.000000
+2016-07-08T10:52:43.132Z - normal: Simulator : setupTilesBeyondPos (764.00, 731.00) 11
+2016-07-08T10:52:43.134Z - normal: Simulator : showTilesBeyond born 764.000000 731.000000
+2016-07-08T10:52:43.135Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:43.136Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:43.136Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:43.137Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:43.139Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:43.141Z - normal: Simulator : setupTilesBeyondPos (765.00, 729.00) 11
+2016-07-08T10:52:43.141Z - normal: Simulator : showTilesBeyond bg 765.000000 729.000000
+2016-07-08T10:52:43.143Z - normal: Simulator : setupTilesBeyondPos (765.00, 729.00) 11
+2016-07-08T10:52:43.145Z - normal: Simulator : showTilesBeyond blinMask 765.000000 729.000000
+2016-07-08T10:52:43.146Z - normal: Simulator : setupTilesBeyondPos (765.00, 729.00) 11
+2016-07-08T10:52:43.146Z - normal: Simulator : showTilesBeyond land 765.000000 729.000000
+2016-07-08T10:52:43.146Z - normal: Simulator : setupTilesBeyondPos (765.00, 729.00) 11
+2016-07-08T10:52:43.148Z - normal: Simulator : showTilesBeyond born 765.000000 729.000000
+2016-07-08T10:52:43.149Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:43.151Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:43.152Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:43.152Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:43.166Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:43.460Z - normal: Simulator : setupTilesBeyondPos (767.00, 728.00) 11
+2016-07-08T10:52:43.461Z - normal: Simulator : showTilesBeyond bg 767.000000 728.000000
+2016-07-08T10:52:43.463Z - normal: Simulator : setupTilesBeyondPos (767.00, 728.00) 11
+2016-07-08T10:52:43.465Z - normal: Simulator : showTilesBeyond blinMask 767.000000 728.000000
+2016-07-08T10:52:43.466Z - normal: Simulator : setupTilesBeyondPos (767.00, 728.00) 11
+2016-07-08T10:52:43.467Z - normal: Simulator : showTilesBeyond land 767.000000 728.000000
+2016-07-08T10:52:43.468Z - normal: Simulator : setupTilesBeyondPos (767.00, 728.00) 11
+2016-07-08T10:52:43.468Z - normal: Simulator : showTilesBeyond born 767.000000 728.000000
+2016-07-08T10:52:43.469Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:43.470Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:43.472Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:43.476Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:43.481Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:43.731Z - normal: Simulator : setupTilesBeyondPos (768.00, 726.00) 11
+2016-07-08T10:52:43.733Z - normal: Simulator : showTilesBeyond bg 768.000000 726.000000
+2016-07-08T10:52:43.733Z - normal: Simulator : setupTilesBeyondPos (768.00, 726.00) 11
+2016-07-08T10:52:43.733Z - normal: Simulator : showTilesBeyond blinMask 768.000000 726.000000
+2016-07-08T10:52:43.733Z - normal: Simulator : setupTilesBeyondPos (768.00, 726.00) 11
+2016-07-08T10:52:43.734Z - normal: Simulator : showTilesBeyond land 768.000000 726.000000
+2016-07-08T10:52:43.734Z - normal: Simulator : setupTilesBeyondPos (768.00, 726.00) 11
+2016-07-08T10:52:43.734Z - normal: Simulator : showTilesBeyond born 768.000000 726.000000
+2016-07-08T10:52:43.736Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:43.737Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:43.738Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:43.739Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:43.776Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:44.130Z - normal: Simulator : setupTilesBeyondPos (770.00, 724.00) 11
+2016-07-08T10:52:44.132Z - normal: Simulator : showTilesBeyond bg 770.000000 724.000000
+2016-07-08T10:52:44.133Z - normal: Simulator : setupTilesBeyondPos (770.00, 724.00) 11
+2016-07-08T10:52:44.133Z - normal: Simulator : showTilesBeyond blinMask 770.000000 724.000000
+2016-07-08T10:52:44.134Z - normal: Simulator : setupTilesBeyondPos (770.00, 724.00) 11
+2016-07-08T10:52:44.134Z - normal: Simulator : showTilesBeyond land 770.000000 724.000000
+2016-07-08T10:52:44.134Z - normal: Simulator : setupTilesBeyondPos (770.00, 724.00) 11
+2016-07-08T10:52:44.135Z - normal: Simulator : showTilesBeyond born 770.000000 724.000000
+2016-07-08T10:52:44.135Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:44.137Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:44.138Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:44.139Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:44.140Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:44.383Z - normal: Simulator : setupTilesBeyondPos (771.00, 722.00) 11
+2016-07-08T10:52:44.383Z - normal: Simulator : showTilesBeyond bg 771.000000 722.000000
+2016-07-08T10:52:44.383Z - normal: Simulator : setupTilesBeyondPos (771.00, 722.00) 11
+2016-07-08T10:52:44.385Z - normal: Simulator : showTilesBeyond blinMask 771.000000 722.000000
+2016-07-08T10:52:44.385Z - normal: Simulator : setupTilesBeyondPos (771.00, 722.00) 11
+2016-07-08T10:52:44.385Z - normal: Simulator : showTilesBeyond land 771.000000 722.000000
+2016-07-08T10:52:44.386Z - normal: Simulator : setupTilesBeyondPos (771.00, 722.00) 11
+2016-07-08T10:52:44.386Z - normal: Simulator : showTilesBeyond born 771.000000 722.000000
+2016-07-08T10:52:44.386Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:44.386Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:44.390Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:44.391Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:44.393Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:44.629Z - normal: Simulator : setupTilesBeyondPos (772.00, 721.00) 11
+2016-07-08T10:52:44.631Z - normal: Simulator : showTilesBeyond bg 772.000000 721.000000
+2016-07-08T10:52:44.632Z - normal: Simulator : setupTilesBeyondPos (772.00, 721.00) 11
+2016-07-08T10:52:44.632Z - normal: Simulator : showTilesBeyond blinMask 772.000000 721.000000
+2016-07-08T10:52:44.634Z - normal: Simulator : setupTilesBeyondPos (772.00, 721.00) 11
+2016-07-08T10:52:44.636Z - normal: Simulator : showTilesBeyond land 772.000000 721.000000
+2016-07-08T10:52:44.639Z - normal: Simulator : setupTilesBeyondPos (772.00, 721.00) 11
+2016-07-08T10:52:44.644Z - normal: Simulator : showTilesBeyond born 772.000000 721.000000
+2016-07-08T10:52:44.645Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:44.645Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:44.646Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:44.646Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:44.697Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:44.900Z - normal: Simulator : setupTilesBeyondPos (774.00, 719.00) 11
+2016-07-08T10:52:44.900Z - normal: Simulator : showTilesBeyond bg 774.000000 719.000000
+2016-07-08T10:52:44.901Z - normal: Simulator : setupTilesBeyondPos (774.00, 719.00) 11
+2016-07-08T10:52:44.901Z - normal: Simulator : showTilesBeyond blinMask 774.000000 719.000000
+2016-07-08T10:52:44.910Z - normal: Simulator : setupTilesBeyondPos (774.00, 719.00) 11
+2016-07-08T10:52:44.911Z - normal: Simulator : showTilesBeyond land 774.000000 719.000000
+2016-07-08T10:52:44.912Z - normal: Simulator : setupTilesBeyondPos (774.00, 719.00) 11
+2016-07-08T10:52:44.914Z - normal: Simulator : showTilesBeyond born 774.000000 719.000000
+2016-07-08T10:52:44.915Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:44.916Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:44.917Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:44.918Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:44.930Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:45.176Z - normal: Simulator : setupTilesBeyondPos (775.00, 717.00) 11
+2016-07-08T10:52:45.177Z - normal: Simulator : showTilesBeyond bg 775.000000 717.000000
+2016-07-08T10:52:45.178Z - normal: Simulator : setupTilesBeyondPos (775.00, 717.00) 11
+2016-07-08T10:52:45.183Z - normal: Simulator : showTilesBeyond blinMask 775.000000 717.000000
+2016-07-08T10:52:45.185Z - normal: Simulator : setupTilesBeyondPos (775.00, 717.00) 11
+2016-07-08T10:52:45.185Z - normal: Simulator : showTilesBeyond land 775.000000 717.000000
+2016-07-08T10:52:45.189Z - normal: Simulator : setupTilesBeyondPos (775.00, 717.00) 11
+2016-07-08T10:52:45.189Z - normal: Simulator : showTilesBeyond born 775.000000 717.000000
+2016-07-08T10:52:45.191Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:45.192Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:45.192Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:45.193Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:45.231Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:45.481Z - normal: Simulator : setupTilesBeyondPos (776.00, 715.00) 11
+2016-07-08T10:52:45.482Z - normal: Simulator : showTilesBeyond bg 776.000000 715.000000
+2016-07-08T10:52:45.483Z - normal: Simulator : setupTilesBeyondPos (776.00, 715.00) 11
+2016-07-08T10:52:45.483Z - normal: Simulator : showTilesBeyond blinMask 776.000000 715.000000
+2016-07-08T10:52:45.484Z - normal: Simulator : setupTilesBeyondPos (776.00, 715.00) 11
+2016-07-08T10:52:45.492Z - normal: Simulator : showTilesBeyond land 776.000000 715.000000
+2016-07-08T10:52:45.494Z - normal: Simulator : setupTilesBeyondPos (776.00, 715.00) 11
+2016-07-08T10:52:45.495Z - normal: Simulator : showTilesBeyond born 776.000000 715.000000
+2016-07-08T10:52:45.497Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:45.498Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:45.499Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:45.500Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:45.514Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:45.901Z - normal: Simulator : setupTilesBeyondPos (778.00, 713.00) 11
+2016-07-08T10:52:45.902Z - normal: Simulator : showTilesBeyond bg 778.000000 713.000000
+2016-07-08T10:52:45.903Z - normal: Simulator : setupTilesBeyondPos (778.00, 713.00) 11
+2016-07-08T10:52:45.903Z - normal: Simulator : showTilesBeyond blinMask 778.000000 713.000000
+2016-07-08T10:52:45.904Z - normal: Simulator : setupTilesBeyondPos (778.00, 713.00) 11
+2016-07-08T10:52:45.905Z - normal: Simulator : showTilesBeyond land 778.000000 713.000000
+2016-07-08T10:52:45.910Z - normal: Simulator : setupTilesBeyondPos (778.00, 713.00) 11
+2016-07-08T10:52:45.912Z - normal: Simulator : showTilesBeyond born 778.000000 713.000000
+2016-07-08T10:52:45.913Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:45.914Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:45.915Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:45.916Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:45.917Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:45.962Z - normal: Simulator : setupTilesBeyondPos (779.00, 712.00) 11
+2016-07-08T10:52:45.963Z - normal: Simulator : showTilesBeyond bg 779.000000 712.000000
+2016-07-08T10:52:45.964Z - normal: Simulator : setupTilesBeyondPos (779.00, 712.00) 11
+2016-07-08T10:52:45.965Z - normal: Simulator : showTilesBeyond blinMask 779.000000 712.000000
+2016-07-08T10:52:45.967Z - normal: Simulator : setupTilesBeyondPos (779.00, 712.00) 11
+2016-07-08T10:52:45.968Z - normal: Simulator : showTilesBeyond land 779.000000 712.000000
+2016-07-08T10:52:45.968Z - normal: Simulator : setupTilesBeyondPos (779.00, 712.00) 11
+2016-07-08T10:52:45.969Z - normal: Simulator : showTilesBeyond born 779.000000 712.000000
+2016-07-08T10:52:45.969Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:45.969Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:45.969Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:45.970Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:46.317Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:46.319Z - normal: Simulator : setupTilesBeyondPos (780.00, 710.00) 11
+2016-07-08T10:52:46.319Z - normal: Simulator : showTilesBeyond bg 780.000000 710.000000
+2016-07-08T10:52:46.320Z - normal: Simulator : setupTilesBeyondPos (780.00, 710.00) 11
+2016-07-08T10:52:46.321Z - normal: Simulator : showTilesBeyond blinMask 780.000000 710.000000
+2016-07-08T10:52:46.323Z - normal: Simulator : setupTilesBeyondPos (780.00, 710.00) 11
+2016-07-08T10:52:46.328Z - normal: Simulator : showTilesBeyond land 780.000000 710.000000
+2016-07-08T10:52:46.330Z - normal: Simulator : setupTilesBeyondPos (780.00, 710.00) 11
+2016-07-08T10:52:46.331Z - normal: Simulator : showTilesBeyond born 780.000000 710.000000
+2016-07-08T10:52:46.333Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:46.336Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:46.338Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:46.338Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:46.397Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:46.730Z - normal: Simulator : setupTilesBeyondPos (781.00, 708.00) 11
+2016-07-08T10:52:46.732Z - normal: Simulator : showTilesBeyond bg 781.000000 708.000000
+2016-07-08T10:52:46.734Z - normal: Simulator : setupTilesBeyondPos (781.00, 708.00) 11
+2016-07-08T10:52:46.734Z - normal: Simulator : showTilesBeyond blinMask 781.000000 708.000000
+2016-07-08T10:52:46.743Z - normal: Simulator : setupTilesBeyondPos (781.00, 708.00) 11
+2016-07-08T10:52:46.745Z - normal: Simulator : showTilesBeyond land 781.000000 708.000000
+2016-07-08T10:52:46.746Z - normal: Simulator : setupTilesBeyondPos (781.00, 708.00) 11
+2016-07-08T10:52:46.747Z - normal: Simulator : showTilesBeyond born 781.000000 708.000000
+2016-07-08T10:52:46.748Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:46.749Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:46.750Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:46.751Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:46.752Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:47.010Z - normal: Simulator : setupTilesBeyondPos (782.00, 707.00) 11
+2016-07-08T10:52:47.011Z - normal: Simulator : showTilesBeyond bg 782.000000 707.000000
+2016-07-08T10:52:47.013Z - normal: Simulator : setupTilesBeyondPos (782.00, 707.00) 11
+2016-07-08T10:52:47.015Z - normal: Simulator : showTilesBeyond blinMask 782.000000 707.000000
+2016-07-08T10:52:47.016Z - normal: Simulator : setupTilesBeyondPos (782.00, 707.00) 11
+2016-07-08T10:52:47.017Z - normal: Simulator : showTilesBeyond land 782.000000 707.000000
+2016-07-08T10:52:47.017Z - normal: Simulator : setupTilesBeyondPos (782.00, 707.00) 11
+2016-07-08T10:52:47.018Z - normal: Simulator : showTilesBeyond born 782.000000 707.000000
+2016-07-08T10:52:47.019Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:47.019Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:47.020Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:47.021Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:47.022Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:47.319Z - normal: Simulator : setupTilesBeyondPos (784.00, 705.00) 11
+2016-07-08T10:52:47.319Z - normal: Simulator : showTilesBeyond bg 784.000000 705.000000
+2016-07-08T10:52:47.320Z - normal: Simulator : setupTilesBeyondPos (784.00, 705.00) 11
+2016-07-08T10:52:47.327Z - normal: Simulator : showTilesBeyond blinMask 784.000000 705.000000
+2016-07-08T10:52:47.329Z - normal: Simulator : setupTilesBeyondPos (784.00, 705.00) 11
+2016-07-08T10:52:47.330Z - normal: Simulator : showTilesBeyond land 784.000000 705.000000
+2016-07-08T10:52:47.331Z - normal: Simulator : setupTilesBeyondPos (784.00, 705.00) 11
+2016-07-08T10:52:47.333Z - normal: Simulator : showTilesBeyond born 784.000000 705.000000
+2016-07-08T10:52:47.334Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:47.334Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:47.335Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:47.336Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:47.337Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:47.636Z - normal: Simulator : setupTilesBeyondPos (784.00, 704.00) 11
+2016-07-08T10:52:47.637Z - normal: Simulator : showTilesBeyond bg 784.000000 704.000000
+2016-07-08T10:52:47.638Z - normal: Simulator : setupTilesBeyondPos (784.00, 704.00) 11
+2016-07-08T10:52:47.638Z - normal: Simulator : showTilesBeyond blinMask 784.000000 704.000000
+2016-07-08T10:52:47.639Z - normal: Simulator : setupTilesBeyondPos (784.00, 704.00) 11
+2016-07-08T10:52:47.645Z - normal: Simulator : showTilesBeyond land 784.000000 704.000000
+2016-07-08T10:52:47.645Z - normal: Simulator : setupTilesBeyondPos (784.00, 704.00) 11
+2016-07-08T10:52:47.647Z - normal: Simulator : showTilesBeyond born 784.000000 704.000000
+2016-07-08T10:52:47.649Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:47.650Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:47.651Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:47.652Z - normal: Simulator : tiles:born 0
+2016-07-08T10:52:47.657Z - normal: Simulator : Touch Began:  [object EventTouch]
+2016-07-08T10:52:47.990Z - normal: Simulator : setupTilesBeyondPos (787.00, 701.00) 11
+2016-07-08T10:52:47.995Z - normal: Simulator : showTilesBeyond bg 787.000000 701.000000
+2016-07-08T10:52:47.996Z - normal: Simulator : setupTilesBeyondPos (787.00, 701.00) 11
+2016-07-08T10:52:47.998Z - normal: Simulator : showTilesBeyond blinMask 787.000000 701.000000
+2016-07-08T10:52:47.999Z - normal: Simulator : setupTilesBeyondPos (787.00, 701.00) 11
+2016-07-08T10:52:48.000Z - normal: Simulator : showTilesBeyond land 787.000000 701.000000
+2016-07-08T10:52:48.000Z - normal: Simulator : setupTilesBeyondPos (787.00, 701.00) 11
+2016-07-08T10:52:48.000Z - normal: Simulator : showTilesBeyond born 787.000000 701.000000
+2016-07-08T10:52:48.001Z - normal: Simulator : tiles:bg 529
+2016-07-08T10:52:48.001Z - normal: Simulator : tiles:blinMask 0
+2016-07-08T10:52:48.001Z - normal: Simulator : tiles:land 529
+2016-07-08T10:52:48.002Z - normal: Simulator : tiles:born 0

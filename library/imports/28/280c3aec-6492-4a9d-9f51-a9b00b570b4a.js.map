@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;AACR,aAAK,EAAE;AACH,uBAAS,IAAI;AACb,gBAAI,EAAE,EAAE,CAAC,KAAK;SACjB;AACD,YAAI,EAAE,eAAe;KACxB;;;AAGD,UAAM,EAAE,kBAAY;AAChB,YAAI,CAAC,KAAK,CAAC,MAAM,GAAG,IAAI,CAAC,IAAI,CAAC;KACjC;;;AAGD,UAAM,EAAE,gBAAU,EAAE,EAAE,EAErB;CACJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "cc.Class({\n    extends: cc.Component,\n\n    properties: {\n        label: {\n            default: null,\n            type: cc.Label\n        },\n        text: 'Hello, World!'\n    },\n\n    // use this for initialization\n    onLoad: function () {\n        this.label.string = this.text;\n    },\n\n    // called every frame\n    update: function (dt) {\n\n    },\n});\n"
+  ]
+}
